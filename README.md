@@ -1,35 +1,52 @@
-# TermsOfUseWhosTheSpy
+# Terms of Use for SpyPlus
 
-This project is connected to the [TermsOfUse](https://github.com/Glowerwur/TermsOfUse) repository.
+_Last updated: July 2025_
 
-## Description
+Welcome to SpyPlus! Please read these Terms of Use ("Terms") carefully before using the SpyPlus mobile application (the "App"). By accessing or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the App.
 
-TermsOfUseWhosTheSpy is a Python project. Please update this README with more details about your project, its purpose, and how to use it.
+## 1. Eligibility and Global Availability
+- You must be at least 13 years old to use this App. If you are under 18, you must have your parent or guardian’s permission.
+- The App is available for download and use worldwide. You are responsible for ensuring that your use of the App complies with all applicable local, national, and international laws and regulations, including those related to digital goods, consumer protection, and advertising standards.
 
-## Setup
+## 2. Game Rules and Fair Play
+- SpyPlus is a party/social game designed for entertainment purposes only.
+- Users are expected to play fairly and respectfully with others.
+- Cheating, harassment, or any form of abusive behavior is strictly prohibited.
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Glowerwur/TermsOfUse.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd TermsOfUse
-   ```
-3. (Optional) Create and activate a virtual environment:
-   ```sh
-   python3 -m venv venv
-   source venv/bin/activate
-   ```
-4. Install dependencies (if any):
-   ```sh
-   pip install -r requirements.txt
-   ```
+## 3. In-App Purchases and Microtransactions
+- The App offers optional in-app purchases and microtransactions, including premium features, ad removal, and deck unlocks.
+- All in-app purchases and microtransactions are processed securely via RevenueCat.
+- All purchases are final. Refunds are subject to the policies of the app store from which you purchased.
+- Prices and features may change at any time without notice.
+- By making a purchase, you agree to comply with all applicable laws in your country regarding digital purchases and microtransactions.
 
-## Usage
+## 4. Advertisements and Third-Party Services
+- The App displays advertisements served by AdMob and may use other third-party services.
+- We are not responsible for the content or privacy practices of third-party services.
+- By using the App, you agree to the display of advertisements and the use of third-party services as part of your experience.
 
-Add usage instructions here.
+## 5. User Data and Privacy
+- By using the App, you agree to the collection and use of information as described in our [Privacy Policy](PRIVACY_POLICY.md).
+- The App may collect data for analytics, advertising, and purchase verification purposes.
+- Data related to purchases is processed by RevenueCat, and advertising data may be processed by AdMob and their partners.
 
-## License
+## 6. Intellectual Property
+- All content, graphics, logos, and code in the App are the property of Jakub Kht or its licensors.
+- You may not copy, modify, distribute, or create derivative works from any part of the App without permission.
 
-Specify your license here. 
+## 7. Limitation of Liability
+- The App is provided "as is" without warranties of any kind.
+- We are not liable for any damages or losses resulting from your use of the App, including but not limited to data loss, device damage, or disputes between players.
+- Some jurisdictions do not allow certain limitations of liability, so some of these limitations may not apply to you.
+
+## 8. Changes to These Terms
+- We may update these Terms at any time. Changes will be posted in the App or on our website.
+- Continued use of the App after changes constitutes acceptance of the new Terms.
+
+## 9. Contact
+For questions or support, contact:
+- **Developer:** Jakub Kht
+- **Instagram:** [@jakubkht](https://www.instagram.com/jakubkht/)
+
+---
+Thank you for playing SpyPlus! Have fun and play fair. 
