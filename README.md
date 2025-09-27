@@ -1,4 +1,4 @@
-# Terms of Use for SpyPlus
+# Terms of Use
 
 _Last updated: July 2025_
 
