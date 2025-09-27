@@ -2,7 +2,7 @@
 
 _Last updated: July 2025_
 
-Welcome to SpyPlus! Please read these Terms of Use ("Terms") carefully before using the SpyPlus mobile application (the "App"). By accessing or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the App.
+ Please read these Terms of Use ("Terms") carefully before using the mobile application (the "App"). By accessing or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the App.
 
 ## 1. Eligibility and Global Availability
 - You must be at least 13 years old to use this App. If you are under 18, you must have your parent or guardian’s permission.
